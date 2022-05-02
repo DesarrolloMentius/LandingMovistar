@@ -1,0 +1,110 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+a{
+    text-decoration: none;
+}
+/*Nav*/
+#movistar{
+    width: 100%;
+    background-image: url(/assets/img/fondo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#lmentius{
+    width: 75%;
+    margin: 10px;
+    margin-left: 40px;
+}
+
+#lmovistar{
+    width: 75%;
+    margin-top: 20px;
+}
+
+#itemsnav a{
+    color: white;
+}
+
+#itemsnav a:hover{
+    color: rgb(9, 48, 63);
+}
+
+
+/*Carousel*/
+
+#botones{
+    width: 250px;
+    text-align: center;
+}
+
+#titleCarousel{
+    font-size: 75px;
+    font-weight: 700;
+}
+
+#textCarousel{
+    padding: 75px;
+}
+
+
+/*Servicios*/
+#imgservicio{
+    background: linear-gradient(90deg, #610dc2, #41a3ca);
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    height: 300px;
+}
+
+#teInteresa{
+    border-radius: 20px;
+}
+
+#politica{
+    text-decoration: none;
+    color: #41a3ca;
+}
+
+#politica:hover{
+    text-decoration: none;
+    color: #41a3ca;
+    text-shadow: 1px 1px 1px #2d055a;
+}
+
+
+/*Footer*/
+
+.footer{
+    background-color: #2d055a;
+    height: 200px;
+}
+
+#pfooter{
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.telefono a{
+    text-decoration: none;
+    color: #66cef7;
+}
+
+.telefono a:hover{
+    text-decoration: none;
+    color: #9fe72a;
+}
+
+.material-symbols-outlined{
+    line-height: 5px;
+}
+
+#titlemovistarf{
+    color: #41a3ca;
+    text-shadow: 1px 1px 1px #41a3ca;
+}
